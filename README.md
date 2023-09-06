@@ -1,4 +1,4 @@
-#LPB assignment
+# LPB assignment
 This application renders dynamic content on user request using AJAX.
 Clicking Menu 1 and Menu 2 buttons, user switches between both menus, and access their content without changing the location link. 
 
