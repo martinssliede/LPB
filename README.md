@@ -4,6 +4,7 @@ Clicking Menu 1 and Menu 2 buttons, user switches between both menus, and access
 
 To start the app - 
 1. Clone the repository on your computer; 
-2. Locate the file usind terminal;
-3. Run node Express.js command in the terminal;
-4. Open localhost:3000 in your browser. 
+2. Locate the file using terminal;
+3. Run node install command in the terminal; 
+4. Run node Express.js command in the terminal;
+5. Open localhost:3000 in your browser. 
